@@ -1,9 +1,9 @@
 {
-    "name": "viion/libra-php",
+    "name": "viion/saint-yaml-gui",
     "type": "library",
-    "keywords": ["ffxiv","php","libra"],
-    "description": "A PHP Library to read the Final Fantasy XIV Libra SQLite file and output JSON",
-    "homepage": "https://github.com/viion/libra-php",
+    "keywords": ["ffxiv","php","saintcoinach","gui"],
+    "description": "Simple PHP GUI for managing the SaintCoinach ex-yaml file.",
+    "homepage": "https://github.com/viion/saint-yaml-gui",
     "license": "MIT",
     "authors": [
         {
